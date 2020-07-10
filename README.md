@@ -1,2 +1,2 @@
-# maargitta.github.io
+# margitta.github.io
 Demo page
